@@ -7,3 +7,5 @@ Calls create_board() to create a 3×3 board and initializes with 0.
 For each player (1 or 2), calls the random_place() function to randomly choose a location on board and mark that location with the player number, alternatively.
 Print the board after each move.
 Evaluate the board after each move to check whether a row or column or diagonal has the same player number. If so, displays the winner’s name. If after 9 moves, there is no winner then displays -1.
+
+![Screenshot 2024-06-22 194202](https://github.com/uttambodara/Python-Tic-Tac-Toe-Game/assets/129719033/329313d0-95d1-4ac5-b474-e43308674526)
